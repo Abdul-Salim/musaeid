@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "429877474514",
+      "project_id": "musaeid-1644399822585",
+      "storage_bucket": "musaeid-1644399822585.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:429877474514:android:96ed5c89cfb9763a4e690b",
+          "android_client_info": {
+            "package_name": "com.musaeid"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "429877474514-6a02bnqpoj9m9qomm7rj1q02mvmsf72a.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDtoO78g9nvB1UJ1-NgyrOq_Jc3vpzph-E"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "429877474514-6a02bnqpoj9m9qomm7rj1q02mvmsf72a.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
